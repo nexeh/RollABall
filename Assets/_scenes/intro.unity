@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd611cc255e3949a5a28ed509cc5af1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: miniGame
+  level: mainMenu
 --- !u!1 &165151214
 GameObject:
   m_ObjectHideFlags: 0
